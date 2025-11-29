@@ -10,6 +10,8 @@ HTML5
 
 CSS3
 
+JavaScript
+
 Windows Environment
 
 🎯 Features
